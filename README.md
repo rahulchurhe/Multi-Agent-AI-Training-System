@@ -1,8 +1,6 @@
 # 🤖 Multi-Agent AI Learning System
 
 ### *AI-powered collaborative learning using autonomous agents*
-![Uploading image.png…]()
-
 ---
 
 ## 🚀 Project Overview
