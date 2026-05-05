@@ -1,6 +1,8 @@
 # 🤖 Multi-Agent AI Learning System
 
 ### *AI-powered collaborative learning using autonomous agents*
+<img width="1983" height="793" alt="ChatGPT Image May 5, 2026, 03_38_54 PM" src="https://github.com/user-attachments/assets/e8612ffb-9982-4d48-b260-1d0ac5ab0e0d" />
+
 ---
 
 ## 🚀 Project Overview
