@@ -1,7 +1,3 @@
-Here’s a **recruiter-focused, portfolio-grade README** — sharper, outcome-driven, and aligned with how hiring managers scan projects.
-
----
-
 # 🤖 Multi-Agent AI Learning System
 
 ### *AI-powered collaborative learning using autonomous agents*
@@ -211,12 +207,3 @@ This project demonstrates:
 ## 📬 Contact
 
 Feel free to connect for collaboration or opportunities.
-
----
-
-If you want next-level impact, I can:
-
-* Create a **stunning GitHub banner (retry image generation)**
-* Add **demo GIF / video walkthrough**
-* Add **deployment (Render / AWS / Docker) section**
-* Turn this into a **resume bullet (FAANG-level)**
